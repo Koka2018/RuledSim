@@ -4,3 +4,8 @@
 
 /RuledGear/obj/Debug
 /.vs/RuledSim/v17/.suo
+/.vs
+/RuledGear/bin
+/RuledGear/obj
+/RuledGearTests/bin
+/RuledGearTests/obj
